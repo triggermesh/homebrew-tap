@@ -1,4 +1,4 @@
-class TriggerMesh < Formula
+class Tm < Formula
   desc "CLI utility for interacting with triggermesh"
   homepage "https://github.com/triggermesh/tm"
   url "https://github.com/triggermesh/tm/releases/download/v0.0.12/tm_osx"
