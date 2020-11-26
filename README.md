@@ -2,7 +2,7 @@
 
 ```
 brew tap triggermesh/tap
-brew install triggermesh
+brew install tm
 ```
 
 Once done `tm` is in your path
